@@ -1,0 +1,6 @@
+[
+  {"name": "ET Prime", "type": "premium", "description": "Deep insights"},
+  {"name": "ET Markets", "type": "finance", "description": "Market updates"},
+  {"name": "ET Masterclass", "type": "learning", "description": "Courses"},
+  {"name": "ET Summits", "type": "events", "description": "Networking"}
+]
